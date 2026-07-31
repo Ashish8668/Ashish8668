@@ -1,10 +1,10 @@
 <!-- =========================================================
-  GitHub Profile README ó Ashish8668
+  GitHub Profile README ù Ashish8668
   Repo must stay named Ashish8668 for this to show on your profile
 ========================================================== -->
 
 <p align="center">
-  <img src="./banner.svg" alt="Ashish Kamble ó Full Stack & AI Engineer" width="100%" />
+  <img src="./banner.png" alt="Ashish Kamble - Full Stack and AI Engineer" width="100%" />
 </p>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ### About
 
-Hey ó I'm **Ashish**, a full-stack engineer focused on **AI/ML** and **backend systems**. I design and ship **production-ready** apps ó clean APIs, reliable data layers, and agent workflows that hold up in the real world.
+Hey ù I'm **Ashish**, a full-stack engineer focused on **AI/ML** and **backend systems**. I design and ship **production-ready** apps ù clean APIs, reliable data layers, and agent workflows that hold up in the real world.
 
 - Build end-to-end products across **MERN**, **Java**, and **Python**
 - Strong on **backend architecture**, auth, data modeling, and cloud deploy
@@ -64,21 +64,19 @@ Hey ó I'm **Ashish**, a full-stack engineer focused on **AI/ML** and **backend s
   <tr>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ashish8668/AudiBuddy">AudiBuddy</a></h3>
-      <p>AI-assisted audio companion ó experimentation and tooling around intelligent audio workflows.</p>
+      <p>AI-assisted audio companion ù experimentation and tooling around intelligent audio workflows.</p>
       <p>
         <img src="https://img.shields.io/badge/AI%2FML-0ea5e9?style=flat-square" alt="AI/ML" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/github/stars/Ashish8668/AudiBuddy?style=flat-square" alt="Stars" />
       </p>
       <p><a href="https://github.com/Ashish8668/AudiBuddy">View repository ?</a></p>
     </td>
     <td width="50%" valign="top">
       <h3><a href="https://github.com/Ashish8668/SandBox">SandBox</a></h3>
-      <p>NLP-based AI resume analysis ó parse, score, and surface insights from candidate resumes.</p>
+      <p>NLP-based AI resume analysis ù parse, score, and surface insights from candidate resumes.</p>
       <p>
         <img src="https://img.shields.io/badge/NLP-22c55e?style=flat-square" alt="NLP" />
         <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/github/stars/Ashish8668/SandBox?style=flat-square" alt="Stars" />
       </p>
       <p><a href="https://github.com/Ashish8668/SandBox">View repository ?</a></p>
     </td>
@@ -87,19 +85,10 @@ Hey ó I'm **Ashish**, a full-stack engineer focused on **AI/ML** and **backend s
 
 ---
 
-### GitHub Insights
+### Activity
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Ashish8668&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-streak-stats.demolab.com/?user=Ashish8668&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashish8668&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ashish8668&theme=tokyo-night&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Contribution activity graph" />
+  <img width="100%" src="./activity-graph.png" alt="Build pulse activity graph" />
 </p>
 
 ---
@@ -111,5 +100,5 @@ Hey ó I'm **Ashish**, a full-stack engineer focused on **AI/ML** and **backend s
 - GitHub: [Ashish8668](https://github.com/Ashish8668)
 
 <p align="center">
-  <i>Building things that ship ó and keep shipping.</i>
+  <i>Building things that ship ù and keep shipping.</i>
 </p>
